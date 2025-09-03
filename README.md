@@ -27,7 +27,7 @@ npm run dev
 Runs on: `http://localhost:5173`
 
 ###API Endpoints
-GET /api/tasks
-POST /api/tasks
-PUT /api/tasks/:id
-DELETE /api/tasks/:id
+-`GET /api/tasks`
+-`POST /api/tasks`
+-`PUT /api/tasks/:id`
+-`DELETE /api/tasks/:id`
